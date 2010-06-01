@@ -152,6 +152,7 @@
 			children = (
 				8D576316048677EA00EA77CD /* qlatrviewer.qlgenerator */,
 			);
+			includeInIndex = 1;
 			name = Products;
 			sourceTree = "<group>";
 		};
