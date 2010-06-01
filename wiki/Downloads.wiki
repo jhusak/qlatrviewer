@@ -1,4 +1,4 @@
 #summary Downloads page
 
 
-Downloads can be found in Sources tab in [[http://code.google.com/p/qlatrviewer/source/browse/#svn/builds%3Fstate%3Dclosed|builds]] directory
+Downloads can be found in Sources tab in [[http://code.google.com/p/qlatrviewer/source/browse/#svn/builds%3Fstate%3Dclosed]] directory
