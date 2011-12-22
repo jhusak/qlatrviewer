@@ -1,5 +1,5 @@
 /*
- *  Written by Jakub Husak (q_h@o2.pl)
+ *  Written by Jakub Husak
  *  under the GNU Public License V2
  *
  */
