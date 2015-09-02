@@ -1,0 +1,1 @@
+Downloads can be found in Sources tab in [builds](http://code.google.com/p/qlatrviewer/source/browse/#svn/builds%3Fstate%3Dclosed) directory
