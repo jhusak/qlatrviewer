@@ -1,12 +1,9 @@
 qlatrviewer
 ===========
 
-<https://github.com/jhusak/qlatrviewer>
-
-
 This is a Quick Look plugin that shows the contents of an ATR - disk image file.
 
-Please download qlatrviewer.qlgenerator.zip and unzip it.
+Please download https://github.com/jhusak/qlatrviewer/blob/master/qlatrviewer.qlgenerator.zip and unzip it.
 To install the plugin, just drag it to /Library/QuickLook (for all users) or ~/Library/QuickLook (for current user only).
 You may need to create that folder if it doesn't already exist.
 Might be nesessary to invoke "qlmanage -r" from terminal, or simply reboot.
